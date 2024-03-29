@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2ece2c6f19e3392459121771fa78015a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - borderwall: {fileID: 2100000, guid: 94b07220c0101104dabbce7affcb9147, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
